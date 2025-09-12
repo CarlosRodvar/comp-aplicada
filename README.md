@@ -22,9 +22,13 @@
 - p013-funciones-matematicas-precios.py
 - p014-funciones-trigonometricas.py
 
-## Tarea 1 
+## Tarea 1 -Elementos básicos de python
 - p015-hipotenusa-triangulo.py
 - p016-tercer-angulo.py
 - p017-convertir-temperatura.py
-- p018-
-- p019-
+- p018-area-volumen-cilindro.py
+- p019-calculo-tiempo.py
+- p020-numero-suerte.py
+- p021-distancia-entre puntos.py
+- p022-resistencia-equivalente-paralelo.py
+
