@@ -62,4 +62,20 @@
 - p042-precio-entrada-cine.py
 - p043-calculadora-anio-bisiesto.py 
 
-## Actividad 5 -
+## Actividad 5 - Ejecucion repetitiva - parte 1
+- p044-conteo-ascendente.py
+- p045-conteo-ascendente-v2.py
+- p046-conteo-descendente.py
+- p047-conteo-descendente-v2.py
+- p048-multiplos-continue.py
+- p049-sumar-consecutivos.py
+- p050-conteo-numeros.py
+- p051-adivina-numero.py
+
+## Actividad 6 Ejecucion repetitiva -parte 2
+- p052
+- p053
+- p054
+- p055
+- p056
+- p057
