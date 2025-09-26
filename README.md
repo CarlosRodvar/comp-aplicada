@@ -4,7 +4,7 @@
 
 - ing.abrahamr@gmail.com
 
-## Actividad 1 -Elementos basicos: Parte 1
+## Actividad 2 -Elementos basicos: Parte 1
 - p001-hola-mundo.py
 - p002-area-circulo.py
 - p003-area-triangulo.py
@@ -14,7 +14,7 @@
 - p007-entrada-multiple.py
 - p008-entrada-con-espacios.py
 
-## Actividad 2 -Elementos basicos: Parte 2
+## Actividad 3 -Elementos basicos: Parte 2
 - p009-promedio-de-calificaciones.py
 - p010-operaciones-matematicas.py
 - p011-operadores-asignacion.py
@@ -32,7 +32,7 @@
 - p021-distancia-entre puntos.py
 - p022-resistencia-equivalente-paralelo.py
 
-## Actividad 3 -Ejecución condicional: Parte 1
+## Actividad 4 -Ejecución condicional: Parte 1
 - p023-verificar-número.py
 - p024-verificar-numero-v2.py
 - p025-verificar-suma.py
@@ -42,7 +42,7 @@
 - p029-calculadora-descuentos.py
 
 
-## Actividad 4 - Ejecucion condicional: Parte 2
+## Actividad 5 - Ejecucion condicional: Parte 2
 
 - p030-verifica-suma.py
 - p031-2da-ley-de-newton.py
@@ -62,7 +62,8 @@
 - p042-precio-entrada-cine.py
 - p043-calculadora-anio-bisiesto.py 
 
-## Actividad 5 - Ejecucion repetitiva - parte 1
+
+## Actividad 6 - Ejecucion repetitiva - parte 1
 - p044-conteo-ascendente.py
 - p045-conteo-ascendente-v2.py
 - p046-conteo-descendente.py
@@ -71,11 +72,3 @@
 - p049-sumar-consecutivos.py
 - p050-conteo-numeros.py
 - p051-adivina-numero.py
-
-## Actividad 6 Ejecucion repetitiva -parte 2
-- p052
-- p053
-- p054
-- p055
-- p056
-- p057
