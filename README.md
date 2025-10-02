@@ -92,4 +92,3 @@
 
 ## Actividad 8 Problema de repaso- parcial 1
 - p065-sistema-papeleria.py
-
