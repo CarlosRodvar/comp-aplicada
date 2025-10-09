@@ -95,3 +95,23 @@
 
 ## Primer examen parcial
 - p066-primer-parcial.py
+
+## Actividad 9  Ejecucion repetitiva Parte 3
+- p067-conteo-ascendente-for.py
+- p068-conteo-ascendente-for-v2.py
+- p069-conteo-descendente-for.py
+- p070-conteo-descendente-for-v2.py
+- p071-arriba-abajo.py
+- p072-suma-pares-impares.py
+- p073-suma-promedio-numeros.py
+- p074-suma-mutiplos.py
+- p075-cifrado-cesar.py
+
+## Actividad 10 Ejecucin repetitiva Parte 4
+- p076-tablas-todas.py
+- p077-triangulo-caracter.py
+- p078-piramide-caracter.py
+- p079-factorial-numeros.py
+- p080-combina-colores.py
+- p081-suma-potencias.py
+
