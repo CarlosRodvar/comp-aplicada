@@ -123,10 +123,18 @@
 - p085-rombo-caracter.py
 - p086-triangulo-invertido-numeros.py
 
-## Actividad 11- 
+## Actividad 11- listas
 - p087-acceder-lista.py
 - p088-modificar-lista.py
 - p089-agregar-lista.py
 - p090-eliminar-lista.py
 - p091-iterar-lista.py
 - p092-lista-de-gastos.py
+
+## Actividad 12 - listas parte 2
+- p093-procesar-calificaciones.py
+- p094-consolidar-ventas.py
+- p095-precio-acciones.py 
+- p096-registro-estudiantes.py
+- p097-procesar-datos-sensores.py
+- p098-producto-punto.py

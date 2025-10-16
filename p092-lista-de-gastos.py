@@ -1,7 +1,7 @@
 # p092-lista-de-gastos.py
 # Permite llevar el control de una lista de gasto
 
-print()
+print('\033[H\033[J')
 
 gastos=[450.50,120.00,85.90,230.00,55.75]
 limite_gasto=100.00
