@@ -161,7 +161,7 @@
 - p113-reporte-ventas.py
 - p114-area-figuras.py
 
-## Tarea 6 
+## Tarea 6 - Diccionarios
 - p115-crear-acceder-diccionario.py
 - p116-modificar-diccionario.py
 - p117-agregar-diccionario.py
@@ -174,9 +174,9 @@
 - p121-municipios.py
 - p122-operaciones-conjuntos.py
 
-## Tarea 7 
+## Tarea 7 - Conjuntos
 - p123-conjunto-personas.py
-- p124-conjunt-numeros.py
+- p124-conjunto-numeros.py
 
 ## Segundo examen parcial 
 - p125-segundo-examen-parcial.py
