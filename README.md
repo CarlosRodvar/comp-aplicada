@@ -180,3 +180,21 @@
 
 ## Segundo examen parcial 
 - p125-segundo-examen-parcial.py
+
+## Actividad 16- Funciones- parte 1
+- p126-funcion-simple.py
+- p127-funcion-parametro.py
+- p128-funcion-parametros.py
+- p129-func-param-nombre.py
+- p130-func-param-defecto.py
+- p131-func-mas-param.py
+- p132-funcion-retorno.py
+- p133-tabla-multiplicar.py
+- p134-temperatura.py
+- p135-suma-digitos.py
+- p136-factorial.py
+- p137-promedio-letra.py
+- p138-suma-digitos.py
+- p139-factorial.py
+- p140-promedio-letra.py
+- p141-suma-rango.py

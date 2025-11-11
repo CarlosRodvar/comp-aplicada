@@ -1,0 +1,12 @@
+# p132-funcion-retorno.py
+def suma(n1:float, n2:float, n3:float) -> float:
+
+    return n1 + n2 +n3
+
+print('\nSuma de dos numeros constantes: ')
+# se guarda el valor retornado por la función
+suma_resultado = suma(10,20)
+print(f"La suma es {suma_resultado}")
+print('\nDame dos numeros separados por enter: ')
+a,b, c = int(input()), int(input()), int(input())
+print(f"La suma de los numeros es {suma(a,b,c)}")
